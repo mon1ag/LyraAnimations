@@ -5,5 +5,5 @@ Basic movement Linked Anim Grapth and Linked Anim Layer With Upper Body Rifle An
 ![image](https://github.com/mon1ag/LyraAnimations/assets/49873500/77ad0c16-53d1-490e-93a4-32e0b0888d7f)</br>
 ![image](https://github.com/mon1ag/LyraAnimations/assets/49873500/66794b3e-a4c4-4cf4-a995-57d5edf259c8)</br>
 ![image](https://github.com/mon1ag/LyraAnimations/assets/49873500/83fbda39-038f-4329-992e-750150fe5297)</br>
-
-Added a Linked Anim Layer for upper body, Rifle Animations
+Showcase Video
+https://youtu.be/Jcw-PNVOLBw
